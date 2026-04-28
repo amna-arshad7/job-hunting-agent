@@ -1,1 +1,38 @@
+Company: Systems Limited
+Role: AI / Machine Learning Engineer Intern
+Location: Lahore, Pakistan
+Source: LinkedIn
+Posted: April 2026
 
+About Company:
+Systems Limited is one of Pakistan's leading IT companies providing
+software development, BPO, and AI solutions globally.
+
+Job Description:
+We are looking for talented and motivated AI/ML interns to join our
+growing artificial intelligence team. You will work on real client
+projects and gain hands-on experience in machine learning and data science.
+
+Requirements:
+- Strong Python programming skills
+- Machine learning fundamentals (supervised and unsupervised learning)
+- Data preprocessing and feature engineering
+- Hands-on experience with pandas and numpy
+- Familiarity with scikit-learn or TensorFlow
+- Git and GitHub for version control
+- SQL and basic database knowledge
+- Problem solving and analytical thinking
+- Good communication and teamwork skills
+- Jupyter Notebook for prototyping
+
+Responsibilities:
+- Develop and test machine learning models
+- Perform data preprocessing and cleaning
+- Collaborate with senior engineers on AI projects
+- Document code and results on GitHub
+- Participate in sprint meetings and project reviews
+- Use prompt engineering to integrate AI tools in workflows
+
+Duration: 3 Months (possibility of full-time offer)
+Stipend: PKR 25,000 - 35,000 per month
+Apply: careers@systemslimited.com
