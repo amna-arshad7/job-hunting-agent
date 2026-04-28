@@ -1,0 +1,37 @@
+Name: Amna Arshad
+Email: amnamarshad33@email.com
+LinkedIn: linkedin.com/in/-amna-arshad-26bd
+
+Education:
+BS Artificial Intelligence - (2022-2026)
+CGPA: 2.6
+
+Skills:
+- Python
+- Machine Learning
+- Pandas, Numpy
+- GitHub, Git
+- OOP
+- Jupyter Notebook
+- Problem Solving
+- Communication
+- SQL
+- Deep Learning
+
+Projects:
+1. Student Grade Predictor
+   - Used Python and machine learning to predict student grades
+   - Applied data preprocessing on student dataset
+   - Deployed using Streamlit
+
+2. Inventory Management System
+   - Built using Python and SQL database
+   - Used OOP principles and Flask backend
+
+3. Resume Analyzer Tool
+   - Built using Python and prompt engineering
+   - Reads resume text and gives improvement suggestions
+
+Certifications:
+- Machine Learning Specialization - Coursera
+- Python for Data Science - edX
