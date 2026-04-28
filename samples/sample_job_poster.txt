@@ -1,0 +1,29 @@
+Company: TechVentures Pakistan
+Role: Data Science Intern
+Location: Islamabad, Pakistan
+Source: Indeed Pakistan
+Posted: March 2026
+
+Job Description:
+TechVentures is seeking a passionate data science intern
+to support our analytics and AI team.
+
+Requirements:
+- Python programming
+- Machine learning
+- Pandas and numpy for data analysis
+- Data preprocessing and visualization
+- SQL for database queries
+- GitHub for version control
+- Problem solving skills
+- Communication skills
+
+Responsibilities:
+- Assist in data collection and cleaning
+- Build basic machine learning models
+- Prepare data reports and visualizations
+- Document findings and code on GitHub
+
+Stipend: PKR 20,000 per month
+Duration: 3 months
+Contact: hr@techventures.pk
