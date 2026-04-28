@@ -1,0 +1,60 @@
+Interview Questions
+===================
+
+Technical Questions (based on job requirements):
+  - Explain your understanding of python.
+  - How have you used python in a project?
+  - Explain your understanding of machine learning.
+  - How have you used machine learning in a project?
+  - Explain your understanding of data preprocessing.
+  - How have you used data preprocessing in a project?
+  - Explain your understanding of github.
+  - How have you used github in a project?
+  - Explain your understanding of git.
+  - How have you used git in a project?
+  - Explain your understanding of api.
+  - How have you used api in a project?
+  - Explain your understanding of prompt engineering.
+  - How have you used prompt engineering in a project?
+  - Explain your understanding of sql.
+  - How have you used sql in a project?
+  - Explain your understanding of communication.
+  - How have you used communication in a project?
+  - Explain your understanding of problem solving.
+  - How have you used problem solving in a project?
+  - Explain your understanding of oop.
+  - How have you used oop in a project?
+  - Explain your understanding of database.
+  - How have you used database in a project?
+  - Explain your understanding of jupyter.
+  - How have you used jupyter in a project?
+  - Explain your understanding of pandas.
+  - How have you used pandas in a project?
+  - Explain your understanding of numpy.
+  - How have you used numpy in a project?
+  - Explain your understanding of html.
+  - How have you used html in a project?
+  - Explain your understanding of css.
+  - How have you used css in a project?
+  - Explain your understanding of flask.
+  - How have you used flask in a project?
+
+HR and Behavioral Questions:
+  - Tell me about yourself.
+  - Why are you interested in this role?
+  - Describe your best academic/project work.
+  - What are your strengths and weaknesses?
+  - Why should we select you?
+  - Where do you see yourself in 5 years?
+
+Questions from Knowledge Base:
+  - How would you explain: FILE: interview_notes.txt?
+  - How would you explain: INTERVIEW KNOWLEDGE BASE - AI/ML INTERNSHIP PREPARATION?
+  - How would you explain: =========================================================?
+  - How would you explain: SECTION 1: MACHINE LEARNING CONCEPTS?
+  - How would you explain: ?
+  - How would you explain: Supervised learning trains models on labeled data to predict outputs?
+  - How would you explain: Unsupervised learning finds hidden patterns in unlabeled data?
+  - How would you explain: Classification predicts categories; regression predicts numbers?
+  - How would you explain: Linear Regression models the relationship between input and output variables?
+  - How would you explain: Logistic Regression is used for binary classification problems?

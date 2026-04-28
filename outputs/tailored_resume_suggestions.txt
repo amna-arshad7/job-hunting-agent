@@ -1,0 +1,33 @@
+Tailored Resume Suggestions
+===========================
+
+Suggested improvements based on job requirements:
+
+  - Add or improve resume evidence related to: python
+  - Add or improve resume evidence related to: machine learning
+  - Add or improve resume evidence related to: data preprocessing
+  - Add or improve resume evidence related to: github
+  - Add or improve resume evidence related to: git
+  - Add or improve resume evidence related to: api
+  - Add or improve resume evidence related to: prompt engineering
+  - Add or improve resume evidence related to: sql
+  - Add or improve resume evidence related to: communication
+  - Add or improve resume evidence related to: problem solving
+  - Add or improve resume evidence related to: oop
+  - Add or improve resume evidence related to: database
+  - Add or improve resume evidence related to: jupyter
+  - Add or improve resume evidence related to: pandas
+  - Add or improve resume evidence related to: numpy
+  - Add or improve resume evidence related to: html
+  - Add or improve resume evidence related to: css
+  - Add or improve resume evidence related to: flask
+
+Suggested Resume Bullet Points:
+  - Developed Python-based academic projects with clear documentation.
+  - Used GitHub for project version control and README-based documentation.
+  - Applied machine learning algorithms on real datasets.
+  - Performed data preprocessing using Pandas and NumPy.
+  - Built and deployed web apps using Streamlit.
+
+Skills to Learn Before Applying:
+  * api - add projects or courses to demonstrate this

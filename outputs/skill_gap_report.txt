@@ -1,0 +1,28 @@
+Skill Gap Report
+================
+
+Match Score: 94.44%
+
+Status: STRONG MATCH - You are well prepared!
+
+Matched Skills:
+  + python
+  + machine learning
+  + data preprocessing
+  + github
+  + git
+  + prompt engineering
+  + sql
+  + communication
+  + problem solving
+  + oop
+  + database
+  + jupyter
+  + pandas
+  + numpy
+  + html
+  + css
+  + flask
+
+Missing Skills:
+  - api

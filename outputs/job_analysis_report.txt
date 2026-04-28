@@ -1,0 +1,24 @@
+Job Analysis Report
+===================
+
+Total skills/keywords found: 18
+
+Skills/keywords found in job posters:
+  - python
+  - machine learning
+  - data preprocessing
+  - github
+  - git
+  - api
+  - prompt engineering
+  - sql
+  - communication
+  - problem solving
+  - oop
+  - database
+  - jupyter
+  - pandas
+  - numpy
+  - html
+  - css
+  - flask

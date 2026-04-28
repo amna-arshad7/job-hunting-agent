@@ -1,0 +1,12 @@
+Application Reminders
+=====================
+Generated: 2026-04-28 13:30
+
+[THIS WEEK] APP-001: Interview at ABC Tech for Junior AI Engineer Intern on 2026-05-03
+  Next action: Prepare Python and ML questions
+
+[THIS WEEK] APP-002: Applied to XYZ Solutions. Follow up on 2026-05-02.
+
+[ACTION NEEDED] APP-003: Not applied yet for Data Analyst Intern at DataMinds.
+  Action: Tailor resume and apply soon.
+
