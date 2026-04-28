@@ -1,37 +1,94 @@
 Name: Amna Arshad
-Email: amnamarshad33@email.com
-LinkedIn: linkedin.com/in/-amna-arshad-26bd
+Email: amnamarshad33@gmail.com
+Phone: +92-317-7831884
+LinkedIn: linkedin.com/in/amna-arshad26bd
+GitHub: github.com/amna-arshad7
+Location: Faisalabd, Pakistan
+
+Objective:
+Motivated CS student seeking an AI/ML internship to apply
+academic knowledge in real-world projects and grow professionally.
 
 Education:
-BS Artificial Intelligence - (2022-2026)
-CGPA: 2.6
+Degree: BS Computer Science
+University: [Your University Name]
+Year: 2022 - 2026
+CGPA: 3.2 / 4.0
 
-Skills:
-- Python
+Relevant Courses:
+- Artificial Intelligence
 - Machine Learning
-- Pandas, Numpy
-- GitHub, Git
-- OOP
+- Database Systems (SQL)
+- Object Oriented Programming
+- Data Structures and Algorithms
+- Web Technologies (HTML, CSS)
+- Software Engineering
+
+Technical Skills:
+Programming Languages:
+- Python (intermediate)
+- SQL (basic to intermediate)
+- HTML, CSS (basic)
+
+Libraries and Tools:
+- Pandas (data analysis)
+- Numpy (numerical computing)
+- Scikit-learn (machine learning)
+- Matplotlib (visualization)
 - Jupyter Notebook
-- Problem Solving
-- Communication
-- SQL
-- Deep Learning
+- Streamlit (web deployment)
+- Flask (basic)
+
+Tools and Platforms:
+- GitHub and Git (version control)
+- VS Code
+- Google Colab
+- Canva (presentations)
+
+AI Skills:
+- Prompt Engineering
+- Machine Learning model building
+- Data Preprocessing
+- Feature Engineering
+- Deep Learning basics
 
 Projects:
 1. Student Grade Predictor
-   - Used Python and machine learning to predict student grades
-   - Applied data preprocessing on student dataset
-   - Deployed using Streamlit
+   - Built a machine learning model to predict student grades
+   - Used Python, Pandas, Numpy, and Scikit-learn
+   - Performed data preprocessing and feature selection
+   - Achieved 87% accuracy using Random Forest
+   - Deployed using Streamlit for interactive use
+   - GitHub: github.com/amna-arshad7/grade-predictor
 
 2. Inventory Management System
-   - Built using Python and SQL database
-   - Used OOP principles and Flask backend
+   - Developed a desktop inventory system using Python
+   - Used SQL database for product and sales records
+   - Implemented OOP design with Python classes
+   - Built Flask-based web interface for CRUD operations
+   - GitHub: github.com/amna-arshad7/inventory-system
 
-3. Resume Analyzer Tool
-   - Built using Python and prompt engineering
-   - Reads resume text and gives improvement suggestions
+3. Job-Hunting Agent (Current Project)
+   - File-driven AI agent for job search management
+   - Reads job posters, resumes, and KB files from folders
+   - Generates skill gap reports and interview questions
+   - Maintains application tracker with reminders
+   - GitHub: github.com/amna-arshad7/job-hunting-agent
 
 Certifications:
-- Machine Learning Specialization - Coursera
-- Python for Data Science - edX
+- Machine Learning Specialization - Coursera (Andrew Ng)
+- Python for Everybody - University of Michigan (Coursera)
+- GitHub Foundations - GitHub Education
+
+Soft Skills:
+- Problem Solving
+- Communication
+- Teamwork
+- Time Management
+- Self-Learning
+
+Languages:
+- Urdu (native)
+- English (professional)
+
+References: Available upon request
