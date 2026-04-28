@@ -1,34 +1,87 @@
-Topic: Machine Learning Basics
-- Supervised learning uses labeled data to train models
-- Common algorithms: Linear Regression, Decision Tree, SVM, KNN
-- Overfitting occurs when model memorizes training data
-- Train/test split is important for model evaluation
-- Feature engineering improves model accuracy
+INTERVIEW KNOWLEDGE BASE - AI/ML INTERNSHIP PREPARATION
+=========================================================
 
-Topic: Python for AI
-- Pandas is used for data manipulation and analysis
-- Numpy provides fast array and matrix operations
-- Scikit-learn is the main ML library in Python
-- Matplotlib and Seaborn are used for data visualization
-- Jupyter Notebook is used for interactive coding
+SECTION 1: MACHINE LEARNING CONCEPTS
+--------------------------------------
+- Supervised learning trains models on labeled data to predict outputs
+- Unsupervised learning finds hidden patterns in unlabeled data
+- Classification predicts categories; regression predicts numbers
+- Linear Regression models the relationship between input and output variables
+- Logistic Regression is used for binary classification problems
+- Decision Trees split data based on feature conditions to make predictions
+- Random Forest combines multiple decision trees to improve accuracy
+- Overfitting happens when a model memorizes training data and fails on new data
+- Underfitting happens when a model is too simple to capture patterns
+- Train/test split divides data for training and evaluating model performance
+- Cross-validation tests model performance across multiple data splits
+- Feature engineering creates new meaningful features from raw data
+- Normalization scales data to a standard range for better model learning
+- Confusion matrix shows true positives, false positives, true/false negatives
+- Accuracy, precision, recall, and F1-score are key model evaluation metrics
 
-Topic: Interview Preparation Tips
-- Explain your projects clearly with problem, solution, result
-- Always mention tools and technologies used
-- Be ready to write basic Python code
-- Practice explaining machine learning concepts simply
-- Prepare questions to ask the interviewer
-- Research the company before the interview
+SECTION 2: PYTHON FOR AI/ML
+------------------------------
+- Pandas is used for loading, cleaning, and analyzing structured data
+- NumPy provides fast array operations and mathematical computations
+- Scikit-learn provides ready-to-use ML algorithms and evaluation tools
+- Matplotlib and Seaborn are used to visualize data and model results
+- Jupyter Notebook allows interactive Python coding with output display
+- Streamlit converts Python scripts into interactive web applications
+- Flask is a lightweight Python framework for building web APIs
+- OOP in Python uses classes and objects to organize code efficiently
+- Git tracks code changes; GitHub hosts repositories and enables collaboration
+- Virtual environments isolate project dependencies using pip and venv
 
-Topic: Prompt Engineering
-- A prompt is the input given to an AI model
-- Clear and specific prompts give better results
-- Context helps the AI understand the task better
-- Chain of thought prompting improves reasoning
+SECTION 3: DATA PREPROCESSING
+--------------------------------
+- Data preprocessing prepares raw data before feeding it to ML models
+- Missing values can be filled with mean, median, or dropped entirely
+- Categorical variables must be encoded using label encoding or one-hot encoding
+- Outliers are extreme values that can distort model learning
+- Feature scaling ensures all features have similar ranges
+- StandardScaler and MinMaxScaler are common scaling tools in scikit-learn
+- Data splitting using train_test_split ensures unbiased evaluation
+- Data cleaning removes duplicates, errors, and irrelevant columns
 
-Topic: GitHub and Version Control
-- Git is used to track changes in code
-- GitHub is the online platform to host repositories
-- Commit messages should be clear and descriptive
-- Branches allow working on features separately
-- Pull requests are used to merge changes
+SECTION 4: PROMPT ENGINEERING
+--------------------------------
+- A prompt is the input instruction given to an AI language model
+- Clear and specific prompts produce better and more relevant outputs
+- Role-based prompts tell the AI to behave as an expert in a domain
+- Few-shot prompting gives examples inside the prompt to guide the AI
+- Chain of thought prompting asks the model to reason step by step
+- Prompt engineering is now a core skill in AI development workflows
+- Large language models like GPT and Claude are used with prompt engineering
+- System prompts set the overall behavior and tone of an AI assistant
+
+SECTION 5: GITHUB AND VERSION CONTROL
+----------------------------------------
+- Git is a distributed version control system for tracking code changes
+- GitHub is the cloud platform to host and share Git repositories
+- A repository (repo) is a project folder tracked by Git
+- Commits save snapshots of code with a descriptive message
+- Branches allow parallel development without affecting the main code
+- Pull requests propose and review changes before merging into main branch
+- README.md is the documentation file shown on the GitHub repository page
+- .gitignore tells Git which files to exclude from tracking
+
+SECTION 6: COMMON HR INTERVIEW QUESTIONS
+------------------------------------------
+- Tell me about yourself: Focus on education, skills, and key projects
+- Why this company: Research the company and connect it to your goals
+- Your greatest strength: Give a real example with result
+- Your weakness: Mention something you are actively improving
+- Where do you see yourself in 5 years: Show ambition and growth mindset
+- Why should we hire you: Summarize your skills and unique value
+- Describe a challenge you faced: Use situation, action, result format
+- Teamwork experience: Describe a group project and your role in it
+
+SECTION 7: PROJECT EXPLANATION TIPS
+--------------------------------------
+- Always explain the problem your project solved first
+- Then describe the approach and tools you used
+- Mention the results and accuracy achieved
+- Say what you learned and what you would improve
+- Be ready to show your GitHub repository link
+- Prepare to explain any line of code if asked
+- Practice explaining projects in simple language without jargon
