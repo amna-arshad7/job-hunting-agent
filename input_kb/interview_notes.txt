@@ -1,0 +1,34 @@
+Topic: Machine Learning Basics
+- Supervised learning uses labeled data to train models
+- Common algorithms: Linear Regression, Decision Tree, SVM, KNN
+- Overfitting occurs when model memorizes training data
+- Train/test split is important for model evaluation
+- Feature engineering improves model accuracy
+
+Topic: Python for AI
+- Pandas is used for data manipulation and analysis
+- Numpy provides fast array and matrix operations
+- Scikit-learn is the main ML library in Python
+- Matplotlib and Seaborn are used for data visualization
+- Jupyter Notebook is used for interactive coding
+
+Topic: Interview Preparation Tips
+- Explain your projects clearly with problem, solution, result
+- Always mention tools and technologies used
+- Be ready to write basic Python code
+- Practice explaining machine learning concepts simply
+- Prepare questions to ask the interviewer
+- Research the company before the interview
+
+Topic: Prompt Engineering
+- A prompt is the input given to an AI model
+- Clear and specific prompts give better results
+- Context helps the AI understand the task better
+- Chain of thought prompting improves reasoning
+
+Topic: GitHub and Version Control
+- Git is used to track changes in code
+- GitHub is the online platform to host repositories
+- Commit messages should be clear and descriptive
+- Branches allow working on features separately
+- Pull requests are used to merge changes
